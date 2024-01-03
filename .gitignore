@@ -1,0 +1,11 @@
+# Игнорировать папки
+node_modules/
+production/
+tampermonkey/
+tests_json/
+backup/
+
+# Игнорировать файл
+log.txt
+nodemon.json
+.env
